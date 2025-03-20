@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Ad Skip",
+    "version": "1.0",
+    "description": "Fast forward YouTube ads to the end essentially skipping ads automatically. Disable your adblocker on YouTube for this to work.",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.youtube.com/*"
+            ],
+            "js": [
+                "youtubeAdSkip.js"
+            ]
+        }
+    ]
+}
