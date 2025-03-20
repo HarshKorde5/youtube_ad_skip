@@ -9,13 +9,13 @@ Note: Disable Ad Blocker on YouTube for this to work
 
 - Clone git repo
 ```
-git clone https://github.com/harshkorde5/youtube_ad_skip
+git clone https://github.com/HarshKorde5/youtube_ad_skip.git
 ```
 
 - In Firefox, go to `about:debugging#/runtime/this-firefox` page -> click `Load Temporary Add-on...` button -> select `manifest.json` file in the extension's directory.
 - In Google Chrome, go to `chrome://extensions/` page -> check `Developer mode` -> Click `Load unpacked` and select the extension folder `youtube_ad_skip`
 
-**Consider [Notes](https://github.com/harshkorde5/youtube_ad_skip/notes.md) File for further information on working**
+**Consider [Notes](https://github.com/HarshKorde5/youtube_ad_skip/blob/main/notes.md) File for further information on working**
 
 **Disclaimer**
 
